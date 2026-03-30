@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sparktestapp</string>
+    <string name="social_spark">SOCIAL SPARK</string>
+    <string name="morning_afternoon_evening_breakfast_lunch_dinner">morning,afternoon,evening,breakfast,lunch\'dinner</string>
+    <string name="get_social_spark">Get social spark</string>
+    <string name="reset">Reset</string>
+</resources>
